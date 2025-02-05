@@ -28,7 +28,7 @@ Welcome to the **PDF Summarizer with Chat and Feedback** project! 🌟 This appl
 
 Before running the application, ensure you have the following installed:
 
-- Python 3.7 or higher 🐍
+- Python 3.11 or higher 🐍
 - Streamlit 🎈
 - LangChain 🔗
 - PyPDF2 📄
@@ -103,10 +103,6 @@ streamlit run your_script_name.py
 5. **💬 Chat with the AI**:
    - Ask questions or discuss the summary with the AI. 🤖💬
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📄
-
 ## 🙏 Acknowledgments
 
 - **Streamlit** for the easy-to-use web framework. 🎈
@@ -115,16 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **PyPDF2** for PDF text extraction. 📄
 - **ReportLab** for PDF creation and formatting. 📊
 
-## 📧 Contact
-
-For any questions or feedback, please reach out to [Your Email Address]. 📧
-
----
-
 Thank you for using the **PDF Summarizer with Chat and Feedback**! 🎉 We hope this tool helps you efficiently summarize and interact with your PDF documents. Happy summarizing! 📚✨
 
 ![PDF Summarizer](https://via.placeholder.com/800x400.png?text=PDF+Summarizer+with+Chat+and+Feedback)
 
----
-
-**🌟 Pro Tip:** Use the chat feature to dive deeper into the summarized content and explore new insights! 🚀🤖
