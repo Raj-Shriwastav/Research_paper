@@ -12,7 +12,7 @@ from reportlab.lib.enums import TA_CENTER,TA_JUSTIFY
 from io import BytesIO
 import re
 
-deepgram_api = "7f46c1bd815d569abbfc6ada566aaedd84684682"
+deepgram_api = "" #<- API here
 
 # Set page config
 st.set_page_config(page_title="PDF Summarizer", page_icon="📄", layout="wide")
