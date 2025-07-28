@@ -22,7 +22,7 @@ st.title("📄 PDF Summarizer with Chat and Feedback")
 
 # Function to get API key
 def get_api_key():
-    api_key = "AIzaSyBdKj1y4K-SPLWpMEA7x1Hboxsg4R47M5w"
+    api_key = ""  #<- API here
     return api_key
 
 # Gemini model setup
